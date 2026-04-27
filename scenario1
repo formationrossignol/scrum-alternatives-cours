@@ -1,0 +1,172 @@
+# Créer une plateforme d’entraînement professionnelle
+
+## Objectif
+
+Concevoir et prototyper une plateforme réaliste d’entraînement pour professionnels de l’agilité.  
+Vous devez partir d’un problème concret issu du terrain et aller jusqu’à une démonstration fonctionnelle.
+
+---
+
+## Format global
+
+- Construction du produit  
+- Réalisation du MVP et finalisation  
+- Présentations devant jury  
+
+---
+
+## Phase 1 : Cadrage
+
+### Livrables attendus
+
+- Un problème clairement identifié
+  - Spécifique, observable, non générique
+  - Basé sur une situation réelle
+
+- Une cible utilisateur
+  - Qui est concerné par ce problème
+  - Dans quel contexte
+
+- Un nom de plateforme
+  - Simple, cohérent avec la proposition de valeur
+
+- Une promesse de valeur
+  - Ce que la plateforme apporte concrètement
+  - En quoi elle résout le problème
+
+### Contraintes
+
+- Interdiction des problèmes vagues
+- Le problème doit être ancré dans un contexte professionnel réel
+- La solution ne doit pas être définie avant le problème
+
+---
+
+## Phase 2 : Personas
+
+### Livrables
+
+- Un ou plusieurs personas
+
+### Contenu attendu
+
+- Contexte professionnel
+- Objectifs métier
+- Frustrations concrètes
+- Niveau d’expérience
+- Attentes vis-à-vis d’une solution
+
+### Attendu
+
+- Les personas doivent être crédibles et exploitables
+- Ils doivent guider les choix de conception
+
+---
+
+## Phase 3 : Structure produit
+
+### Backlog structuré
+
+- Liste des fonctionnalités principales
+- Rédaction de user stories
+- Priorisation claire
+  - Explication des choix
+  - Mise en avant de la valeur
+
+### Roadmap
+
+- Version 1
+  - Contenu du MVP
+  - Fonctionnalités essentielles
+
+- Version 2
+  - Améliorations
+  - Extensions
+
+- Vision long terme
+  - Évolution du produit
+  - Positionnement cible
+
+### Attendu
+
+- Cohérence entre problème, personas et backlog
+- Capacité à prioriser de manière argumentée
+
+---
+
+## Phase 4 : Conception de la solution
+
+### Livrables
+
+- Parcours utilisateur
+  - Étapes clés de l’utilisation
+  - Points de friction adressés
+
+- Fonctionnalités clés
+  - Ce qui fait la valeur du produit
+  - Ce qui différencie la solution
+
+- Différenciation
+  - Comparaison avec l’existant
+  - Limites des solutions actuelles
+
+### Attendu important
+
+- Expliquer clairement pourquoi votre solution est meilleure que ce qui existe déjà
+- Montrer une vraie réflexion produit, pas uniquement une liste de fonctionnalités
+
+---
+
+## Phase 5 : MVP
+
+### Objectif
+
+Créer une version testable de la plateforme  
+Le MVP doit permettre de comprendre concrètement le fonctionnement du produit
+
+### Formats autorisés
+
+- No code
+- Code
+- Slides interactives
+- Prototype Figma cliquable
+
+### Contraintes
+
+- Le MVP doit être démontrable
+- Il doit illustrer les fonctionnalités clés
+- Il doit être cohérent avec le backlog défini
+
+### Interdiction
+
+- Présenter une solution sans démonstration
+- Se limiter à un discours théorique
+
+---
+
+## Phase 6 : Présentation
+
+### Format
+
+- 15 à 20 minutes de présentation
+- 5 minutes de questions avec le jury
+
+### Contenu attendu
+
+- Problème et cible
+- Solution proposée
+- Structure produit
+- Démonstration du MVP
+- Argumentation des choix
+
+### Attendu
+
+- Présentation claire et structurée
+- Capacité à défendre vos choix
+- Cohérence globale du produit
+
+---
+
+## Objectif final
+
+Construire une solution crédible, cohérente et démontrable, en adoptant une posture professionnelle de conception produit.
