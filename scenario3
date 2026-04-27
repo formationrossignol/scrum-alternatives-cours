@@ -1,0 +1,207 @@
+# Exercice complet : Simulation d’un projet avec gestion de sprints
+
+## Objectif
+
+Simuler la gestion complète d’un projet en équipe, depuis la structuration initiale jusqu’au pilotage de plusieurs sprints, en intégrant les contraintes réelles d’organisation, de planification et d’exécution.
+
+---
+
+## Format global
+
+- Construction du projet  
+- Simulation de plusieurs sprints  
+- Analyse des résultats et amélioration  
+- Présentation finale  
+
+---
+
+## Phase 1 : Cadrage du projet
+
+### Livrables attendus
+
+- Choix d’un projet
+  - Produit ou service réaliste
+  - Contexte professionnel crédible
+
+- Présentation du contexte
+  - Problème adressé
+  - Utilisateurs cibles
+  - Objectifs du projet
+
+- Organisation de l’équipe
+  - Répartition des rôles
+  - Un responsable produit
+  - Un facilitateur d’équipe
+  - Membres de l’équipe
+
+### Attendu
+
+- Cohérence entre le projet, le contexte et l’organisation
+- Clarté des responsabilités
+
+---
+
+## Phase 2 : Structuration du produit
+
+### Livrables
+
+- Définition de la valeur d’un point d’effort
+  - Ce que représente une unité de mesure dans votre projet
+  - Règles d’estimation communes à l’équipe
+
+- Product backlog initial
+  - Liste des fonctionnalités
+  - Découpage en éléments exploitables
+  - Rédaction des besoins et des tâches
+
+- Estimation initiale
+  - Utilisation de tailles relatives (exemple : tailles de t-shirt)
+  - Justification des estimations
+
+### Attendu
+
+- Backlog structuré et priorisé
+- Compréhension partagée de l’estimation
+
+---
+
+## Phase 3 : Règles de fonctionnement
+
+### Livrables
+
+- Définition of Ready
+  - Conditions pour qu’un élément puisse être traité
+
+- Définition of Done
+  - Conditions pour considérer un élément comme terminé
+
+### Attendu
+
+- Règles claires, applicables et partagées par toute l’équipe
+- Cohérence avec le type de projet
+
+---
+
+## Phase 4 : Planification et estimation détaillée
+
+### Livrables
+
+- Estimation détaillée des activités
+  - Utilisation d’une méthode collaborative d’estimation
+  - Utilisation d’un outil de support (application web ou mobile)
+
+- Simulation de disponibilité
+  - Capacité de chaque membre
+  - Prise en compte des aléas
+    - Absences
+    - Formation
+    - Imprévus
+
+### Attendu
+
+- Estimations cohérentes et argumentées
+- Prise en compte réaliste des contraintes humaines
+
+---
+
+## Phase 5 : Planification des sprints
+
+### Livrables
+
+- Planification de plusieurs sprints
+  - Sélection des éléments à traiter
+  - Répartition du travail
+
+- Mise en place des tableaux de suivi
+  - Un tableau par sprint
+  - Organisation des tâches
+
+### Attendu
+
+- Alignement entre capacité et charge
+- Vision claire de l’avancement
+
+---
+
+## Phase 6 : Suivi et pilotage
+
+### Livrables
+
+- Suivi de l’avancement
+  - Graphique de progression pour chaque sprint
+
+- Calcul de la performance
+  - Mesure de la capacité réelle de l’équipe
+  - Analyse des écarts
+
+### Attendu
+
+- Capacité à analyser les résultats
+- Compréhension des dynamiques d’équipe
+
+---
+
+## Phase 7 : Amélioration continue
+
+### Livrables
+
+- Identification des problèmes rencontrés
+  - Difficultés dans la réalisation
+  - Blocages
+  - Problèmes d’organisation
+
+- Proposition d’améliorations
+  - Actions concrètes
+  - Ajustements pour les sprints suivants
+
+### Attendu
+
+- Analyse honnête et constructive
+- Capacité à proposer des solutions réalistes
+
+---
+
+## Phase 8 : Vision produit
+
+### Livrables
+
+- Roadmap produit
+  - Activités non réalisées
+  - Priorisation future
+  - Vision d’évolution
+
+### Attendu
+
+- Projection cohérente du produit
+- Capacité à prioriser dans le temps
+
+---
+
+## Phase 9 : Présentation finale
+
+### Format
+
+- 15 à 20 minutes de présentation
+- 5 minutes de questions avec le jury
+
+### Contenu attendu
+
+- Présentation du projet et du contexte
+- Organisation de l’équipe
+- Structure du produit
+- Déroulement des sprints
+- Résultats obtenus
+- Problèmes rencontrés et améliorations
+- Vision produit
+
+### Attendu
+
+- Présentation claire et structurée
+- Capacité à expliquer et défendre les choix
+- Cohérence globale entre planification et exécution
+
+---
+
+## Objectif final
+
+Comprendre et expérimenter la gestion concrète d’un projet en équipe, en intégrant la planification, l’exécution, les aléas et l’amélioration continue.
